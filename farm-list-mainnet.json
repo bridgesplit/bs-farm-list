@@ -1,6 +1,18 @@
 {
     "DJfPmK1cAgxn4Pm4ejwbdynbR1R1UU33zvgZ9H2WRuvF": {
         "rewarderKey": "DJfPmK1cAgxn4Pm4ejwbdynbR1R1UU33zvgZ9H2WRuvF",
-        "fnftMint": "CzXF8oUJSsB9ADKV99WAi2TgytqAyKvQw6EihwiL9em4"
+        "fnftMint": "CzXF8oUJSsB9ADKV99WAi2TgytqAyKvQw6EihwiL9em4",
+        "environment": "prod"
+    },
+    {
+        "A6EbkX1nV9s9AwDYbACNLSSCdW6r1Ar6Kcf4Moeg1uGo": {
+        "rewarderKey": "A6EbkX1nV9s9AwDYbACNLSSCdW6r1Ar6Kcf4Moeg1uGo",
+        "fnftMint": "8WTN3gDKgk2xfYoBZFjyBhek9DaMkqVMeSU8EcfUhHNU",
+        "environment": "staging"
+    },
+    "EvNaVXu87e5TumSvnRnSQmgUruvvcjMoFb2gQyQr4aFa": {
+        "rewarderKey": "EvNaVXu87e5TumSvnRnSQmgUruvvcjMoFb2gQyQr4aFa",
+        "fnftMint": "EmzYLb3fwhjNp726Na5zLdhgrZjyC8GrfNGyopq6731w",
+        "environment": "staging"
     }
 }
