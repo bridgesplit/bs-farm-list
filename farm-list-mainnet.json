@@ -18,5 +18,10 @@
         "rewarderKey": "BVmaE5xBQTACUto8jYhdBzGYAMNH36P632NkP1hru8jo",
         "fnftMint": "2MtPZqwNKTNsBoFCwm4ZTWk3ySz4LSd82ucDGeTk7VNu",
         "environment": "prod"
+    },
+    "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv": {
+        "rewarderKey": "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv",
+        "fnftMint": "2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J",
+        "environment": "staging"
     }
 }
