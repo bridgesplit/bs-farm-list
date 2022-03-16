@@ -28,5 +28,10 @@
         "rewarderKey": "9wNWUJcrQbp5cK4VCr3JCDzAr9J26VHUHyT1qQCzMZBL",
         "fnftMint": "GZL4yjPohDShW4RofJ6dEWu2Fv7qEa5mBT7Dpje5hqe7",
         "environment": "prod"
+    },
+    "3k46T8YPUzDWx3eognRfb1B4s8WCkKgPdNhrcfdd3PEZ": {
+        "rewarderKey": "3k46T8YPUzDWx3eognRfb1B4s8WCkKgPdNhrcfdd3PEZ",
+        "fnftMint": "4uRn7vxRPWYP4HuAa4UNXwEPLRL8oQ71YByMhr6yBnL4",
+        "environment": "prod"
     }
 }
