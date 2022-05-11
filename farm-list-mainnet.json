@@ -22,7 +22,7 @@
     "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv": {
         "rewarderKey": "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv",
         "fnftMint": "2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J",
-        "environment": "staging"
+        "environment": "prod"
     },
     "9wNWUJcrQbp5cK4VCr3JCDzAr9J26VHUHyT1qQCzMZBL": {
         "rewarderKey": "9wNWUJcrQbp5cK4VCr3JCDzAr9J26VHUHyT1qQCzMZBL",
