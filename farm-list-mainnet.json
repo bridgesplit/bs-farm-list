@@ -14,13 +14,13 @@
     "EvNaVXu87e5TumSvnRnSQmgUruvvcjMoFb2gQyQr4aFa": {
         "rewarderKey": "EvNaVXu87e5TumSvnRnSQmgUruvvcjMoFb2gQyQr4aFa",
         "fnftMint": "EmzYLb3fwhjNp726Na5zLdhgrZjyC8GrfNGyopq6731w",
-        "depositMint": "",
+        "depositMint": "Tdn25ushgBJajNnG7BGvpdHiEbNdcxY7ssMefZ1jRT7",
         "environment": "staging"
     },
     "BVmaE5xBQTACUto8jYhdBzGYAMNH36P632NkP1hru8jo": {
         "rewarderKey": "BVmaE5xBQTACUto8jYhdBzGYAMNH36P632NkP1hru8jo",
         "fnftMint": "2MtPZqwNKTNsBoFCwm4ZTWk3ySz4LSd82ucDGeTk7VNu",
-        "depositMint": "Tdn25ushgBJajNnG7BGvpdHiEbNdcxY7ssMefZ1jRT7",
+        "depositMint": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU",
         "environment": "prod"
     },
     "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv": {
