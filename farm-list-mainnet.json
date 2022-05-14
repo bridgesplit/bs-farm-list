@@ -2,36 +2,43 @@
     "DJfPmK1cAgxn4Pm4ejwbdynbR1R1UU33zvgZ9H2WRuvF": {
         "rewarderKey": "DJfPmK1cAgxn4Pm4ejwbdynbR1R1UU33zvgZ9H2WRuvF",
         "fnftMint": "CzXF8oUJSsB9ADKV99WAi2TgytqAyKvQw6EihwiL9em4",
+        "depositMint": "H8BWkkGKpSpZVhuvuCAHBwWGWVrkAq9Dw3EH3okjy8dg",
         "environment": "prod"
     },
     "A6EbkX1nV9s9AwDYbACNLSSCdW6r1Ar6Kcf4Moeg1uGo": {
         "rewarderKey": "A6EbkX1nV9s9AwDYbACNLSSCdW6r1Ar6Kcf4Moeg1uGo",
         "fnftMint": "8WTN3gDKgk2xfYoBZFjyBhek9DaMkqVMeSU8EcfUhHNU",
+        "depositMint": "CkqCHUJfc8xPVsNHQbZLHpmoHFZexJYsCEfZoxKMaboz",
         "environment": "staging"
     },
     "EvNaVXu87e5TumSvnRnSQmgUruvvcjMoFb2gQyQr4aFa": {
         "rewarderKey": "EvNaVXu87e5TumSvnRnSQmgUruvvcjMoFb2gQyQr4aFa",
         "fnftMint": "EmzYLb3fwhjNp726Na5zLdhgrZjyC8GrfNGyopq6731w",
+        "depositMint": "",
         "environment": "staging"
     },
     "BVmaE5xBQTACUto8jYhdBzGYAMNH36P632NkP1hru8jo": {
         "rewarderKey": "BVmaE5xBQTACUto8jYhdBzGYAMNH36P632NkP1hru8jo",
         "fnftMint": "2MtPZqwNKTNsBoFCwm4ZTWk3ySz4LSd82ucDGeTk7VNu",
+        "depositMint": "Tdn25ushgBJajNnG7BGvpdHiEbNdcxY7ssMefZ1jRT7",
         "environment": "prod"
     },
     "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv": {
         "rewarderKey": "5TDQnj1QK6cKbVXtLGdVRbCAwk4fFdbhWP8WBvNRLBjv",
         "fnftMint": "2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J",
+        "depositMint": "AHEianNcfVVtNY9aPqyQ61tGuF729wsStTkT5TT8HBp3",
         "environment": "prod"
     },
     "9wNWUJcrQbp5cK4VCr3JCDzAr9J26VHUHyT1qQCzMZBL": {
         "rewarderKey": "9wNWUJcrQbp5cK4VCr3JCDzAr9J26VHUHyT1qQCzMZBL",
         "fnftMint": "GZL4yjPohDShW4RofJ6dEWu2Fv7qEa5mBT7Dpje5hqe7",
+        "depositMint": "39DzdKbxRrFtS5jHVfSc9Fk6dWi9c3kz9wWNjSjhwoM5",
         "environment": "prod"
     },
     "3k46T8YPUzDWx3eognRfb1B4s8WCkKgPdNhrcfdd3PEZ": {
         "rewarderKey": "3k46T8YPUzDWx3eognRfb1B4s8WCkKgPdNhrcfdd3PEZ",
         "fnftMint": "4uRn7vxRPWYP4HuAa4UNXwEPLRL8oQ71YByMhr6yBnL4",
+        "depositMint": "6e32iPj4Nu1qoWHtggWxeGW55kNPhhPzdyMz2zsVetSg",
         "environment": "prod"
     }
 }
