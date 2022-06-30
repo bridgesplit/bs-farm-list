@@ -59,10 +59,10 @@
         "depositMint": "4GAhnhdzj2KyrEq9kXnn86Fyu4tga4RBK6Ryg8Ne43vd",
         "environment": "prod"
     },
-    "AqnQDL5iRoxYUvWJsvJuCBi4SsczsrmassV5kKTGbBjV": {
-        "rewarderKey": "AqnQDL5iRoxYUvWJsvJuCBi4SsczsrmassV5kKTGbBjV",
-        "fnftMint": "3XwZtyP5g2ku5cNzLXYcBYygvToXKdjw73GSRq73QYLQ",
-        "depositMint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk",
+    "A7W2tu36hy2TofB5yLorrqnfjt8714REGUBujA9vxjMX": {
+        "rewarderKey": "A7W2tu36hy2TofB5yLorrqnfjt8714REGUBujA9vxjMX",
+        "fnftMint": "4fHNyVDysSVSAjAYi6UGXt3dcsp9sfKN4obe7iKWAh59",
+        "depositMint": "8Pnvp1D9r5w1xYC3rqMecwUfFoGfXCjLKEp54Dpgymjd",
         "environment": "prod"
     }
 }
