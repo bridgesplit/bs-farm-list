@@ -70,5 +70,11 @@
          "fnftMint": "3XwZtyP5g2ku5cNzLXYcBYygvToXKdjw73GSRq73QYLQ",
          "depositMint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk",
          "environment": "prod"
+     },
+     "76JnpzmcYU7gYCcqbVCLRW4AbeyPNLPEQoiKAT6LXDnH": {
+         "rewarderKey": "76JnpzmcYU7gYCcqbVCLRW4AbeyPNLPEQoiKAT6LXDnH",
+         "fnftMint": "Ca9LxRYdZ7jK4QAqjLo4iaYmiV8FNdngtSkzM69hzgDX",
+         "depositMint": "Ca9LxRYdZ7jK4QAqjLo4iaYmiV8FNdngtSkzM69hzgDX",
+         "environment": "prod"
      }
 }
